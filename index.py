@@ -1,4 +1,4 @@
 list = []
 
-while(inputElement := (input("Write Something: "))) != "quit":
-	list.append(inputElement)
+while(inputElement1 := (input("Write Something: "))) != "quit":
+	list.append(inputElement1)
